@@ -7,7 +7,7 @@ Plots (2D, 3D, Subplot, Surf, Contour, Semi-Loglog)
 
 Intro to Simmechanics
 
-Solving Linear/Nonlinear System of Equation and Differential Equation
+Solve System of Linear/Nonlinear Equation and Differential Equation
 
 Curve Fitting and Modeling
 
